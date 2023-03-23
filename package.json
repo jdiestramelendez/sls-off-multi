@@ -1,6 +1,6 @@
 {
   "name": "@jdiestramelendez/sls-off-multi",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A wrapper for serverless-offline that allows multiple instances to be ran concurrently with watch functionality",
   "main": "./lib/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "author": "Jose Diestra",
   "bin": {
-    "sls-off": "bin/multi.js"
+    "sls-off-multi": "bin/multi.js"
   },
   "license": "MIT",
   "dependencies": {
